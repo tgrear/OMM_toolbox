@@ -9,7 +9,4 @@ Computational tools for running and analyzing molecular dynamics simulations (MD
 
 2) A general platform for OpenMM MDS workflows and analysis. [UNDER CONSTRUCTION]
 
-4) Example OpenMM workflow implementing AToM for free energy approximation. Additional information can be fund here: https://www.compmolbiophysbc.org/atom-openmm/the-science-behind-atom
-5)
-6)
-7) [UNDER CONSTRUCTION]
+4) Example OpenMM workflow implementing AToM for free energy approximation [UNDER CONSTRUCTION]. Additional information can be fund here: https://www.compmolbiophysbc.org/atom-openmm/the-science-behind-atom.
