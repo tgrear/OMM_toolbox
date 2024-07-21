@@ -1,7 +1,6 @@
 # OMM_tools
 
-Computational tools for running and analyzing molecular dynamics
-simulations (MDS) using OpenMM and Pymol. This repository contains:
+Computational tools for running and analyzing molecular dynamics simulations (MDS) using OpenMM and Pymol. This repository contains:
 
 1) Lysozyme in water MDS. The OpenMM documentation for the lysozyme tutorial can be found here:
    https://openmm.github.io/openmm-cookbook/latest/notebooks/tutorials/protein_in_water.html.
