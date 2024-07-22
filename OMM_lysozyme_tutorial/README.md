@@ -15,7 +15,7 @@
     cd OMM_tools/OMM_lysozyme_tutorial
 
 ### 4a) Run lysozyme in water simulation on UNCC HPC:
-    sbatch runOMM.slurm' if using UNCC HPC
+    sbatch runOMM.slurm
 
 ### 4b) Run lysozyme in water simulation locally:
     python OMM_lysozyme_tutorial.py
