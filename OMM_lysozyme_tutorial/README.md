@@ -3,7 +3,6 @@
 ### 1) Create and activate OpenMM conda environment:
     conda create -n OMM_env numpy matplotlib git
     conda activate OMM_env
-    conda config --append channels conda-forge
     conda install -c schrodinger pymol-bundle
 
 ### 2) Install OpenMM in conda environment:
