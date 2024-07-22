@@ -10,8 +10,8 @@
     python -m openmm.testInstallation
 
 ### 3) Clone OMM_tools repository:
-    git clone https://github.com/tgrear/OMM_tools.git
-    cd OMM_tools/OMM_lysozyme_tutorial
+    git clone https://github.com/tgrear/OMM_toolbox.git
+    cd OMM_toolbox/OMM_lysozyme_tutorial
 
 ### 4a) Run lysozyme in water simulation on UNCC HPC:
     sbatch runOMM.slurm
