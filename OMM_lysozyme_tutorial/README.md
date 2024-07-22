@@ -1,4 +1,4 @@
-# Lysozyme in water tutorial
+# OpenMM lysozyme in water tutorial
 
 1) Create and activate OpenMM conda environment:\
     a) Execute: 'conda create -n OMM_env numpy matplotlib git'.\
