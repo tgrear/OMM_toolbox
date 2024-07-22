@@ -10,7 +10,7 @@
     conda install openmm
     python -m openmm.testInstallation
 
-### 3) Clone OMM_tools repository:
+### 3) Clone OMM_toolbox repository:
     git clone https://github.com/tgrear/OMM_toolbox.git
     cd OMM_toolbox/OMM_lysozyme_tutorial
 
