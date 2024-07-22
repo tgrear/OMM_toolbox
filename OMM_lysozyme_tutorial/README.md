@@ -22,3 +22,7 @@
 ### The output is routed to the directory: OMM_output_DATE_TIME
 
 ---
+
+### Additional OpenMM tutorials can be found [here](http://docs.openmm.org/latest/userguide/library/03_tutorials.html).
+
+---
