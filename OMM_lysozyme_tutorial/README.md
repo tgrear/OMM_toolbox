@@ -1,6 +1,4 @@
-#>========================================================<#
-#OMM_tools lysozyme in water tutorial
-#>========================================================<#
+# OMM_tools lysozyme in water tutorial
 
 1) Create and activate OpenMM conda environment:
     a) Execute: 'conda create -n OMM_env numpy matplotlib git'.
@@ -21,5 +19,4 @@
     b) Otherwise, execute: 'python OMM_lysozyme_tutorial.py'.
     c) The output is routed to the dir: 'OMM_output_DATE_TIME'.
 
-#>========================================================<#
 #>========================================================<#
