@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f98dcaa9-48ae-49cf-9d41-a310f07ae257" alt="custom image"/>
+  <img src="https://github.com/user-attachments/assets/abf8f536-8e61-4bb7-a06d-0680b2e11b4b" alt="custom image"/>
 </p>
-
-![OMM_logo_small_sharp](https://github.com/user-attachments/assets/abf8f536-8e61-4bb7-a06d-0680b2e11b4b)
-
 
 Computational tools for running and analyzing molecular dynamics simulations (MDS) using OpenMM and Pymol. For citation purposes, refer to (https://www.compmolbiophysbc.org/publications) for OpenMM and (https://pymol.org/support.html#citing) for Pymol. This repository contains:
 
