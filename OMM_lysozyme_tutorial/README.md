@@ -1,5 +1,5 @@
 #>========================================================<#
-            OMM_tools lysozyme in water tutorial            
+#OMM_tools lysozyme in water tutorial
 #>========================================================<#
 
 1) Create and activate OpenMM conda environment:
