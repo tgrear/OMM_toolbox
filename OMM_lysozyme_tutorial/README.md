@@ -20,6 +20,6 @@
 ### 4b) Run lysozyme in water simulation locally:
     python OMM_lysozyme_tutorial.py
     
-### The output is routed to the directory: 'OMM_output_DATE_TIME
+### The output is routed to the directory: OMM_output_DATE_TIME
 
 ---
