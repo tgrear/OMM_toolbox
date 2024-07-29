@@ -9,6 +9,6 @@ Computational tools for running and analyzing molecular dynamics simulations (MD
    The original GROMACS version can be found [here](http://www.mdtutorials.com/gmx/lysozyme/01_pdb2gmx.html).
    Both provide additional information for the protocols in this tutorial MDS pipeline.
 
-3) A general platform for OpenMM MDS and analysis [UNDER CONSTRUCTION].
+3) OMM_complexes. A general platform for OpenMM MDS and analysis of molecular complexes.
 
 4) Example OpenMM workflow implementing AToM for free energy approximation [UNDER CONSTRUCTION]. Additional information can be found [here](https://www.compmolbiophysbc.org/atom-openmm/the-science-behind-atom).
