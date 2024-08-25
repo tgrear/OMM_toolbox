@@ -6,7 +6,7 @@
     conda config --append channels conda-forge
     conda install -c conda-forge -c schrodinger pymol-bundle pdbfixer
 
-### 2) Install OpenMM in conda environment:
+### 2) Install OpenMM in conda environment and run OpenMM test:
     conda install openmm
     python -m openmm.testInstallation
 
