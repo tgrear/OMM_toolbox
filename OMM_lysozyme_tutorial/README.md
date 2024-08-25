@@ -4,8 +4,7 @@
     conda create -n OMM_env numpy matplotlib git
     conda activate OMM_env
     conda config --append channels conda-forge
-    conda install -c conda-forge -c schrodinger pymol-bundle
-    conda install -c conda-forge pdbfixer
+    conda install -c conda-forge -c schrodinger pymol-bundle pdbfixer
 
 ### 2) Install OpenMM in conda environment:
     conda install openmm
