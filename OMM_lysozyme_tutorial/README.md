@@ -3,7 +3,6 @@
 ### 1) Create and activate OpenMM conda environment. This may require executing 'module load anaconda3' first if operating on the UNCC HPC.
     conda create -n OMM_env numpy matplotlib git
     conda activate OMM_env
-    conda config --append channels conda-forge
     conda install -c conda-forge -c schrodinger pymol-bundle pdbfixer
 
 ### 2) Install OpenMM in conda environment and run OpenMM test:
