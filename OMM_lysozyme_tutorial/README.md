@@ -16,7 +16,7 @@
 ### 4a) Run lysozyme in water simulation on UNCC HPC:
     sbatch runOMM.slurm
 
-### 4b) Run lysozyme in water simulation locally:
+### 4b) If not on UNCC HPC, run lysozyme in water simulation locally:
     python OMM_lysozyme_tutorial.py
     
 ### The output is routed to the directory: OMM_output_DATE_TIME
